@@ -1,4 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Muhammad Ammar, a beginner in Data Science with a strong foundation in Computer Vision and Natural Language Processing. Most of my journey has been self-learned, and I'm currently focused on creating applications using LLMs as reasoning engines. My passion lies in utilizing Deep Learning techniques to address applied problems and create useful outcomes. Committed to the principle of lifelong learning, I am constantly evolving, gaining new knowledge, and enhancing my skills.
+
+"Remember, no effort that we make to attain something beautiful is ever lost." - Helen Keller
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
